@@ -1,0 +1,43 @@
+.heading {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px 5px black;
+    font-family: 'Rampart One', cursive;
+    padding-top: 30px;
+
+
+}
+
+.header {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 900;
+
+}
+
+
+.copy_right_footer {
+    bottom: 0;
+    position: fixed;
+    background-color:rgb(15, 102, 189);
+    text-align: center;
+    color: white;
+    padding: 15px;
+    font-size: 25px;
+    width: 100%;
+    font-family: 'Kiwi Maru', serif;
+    
+  }
+
+canvas {
+      border: 5px solid white;
+      border-radius: 20px;
+      box-shadow: 5px 5px 5px black;
+
+  }
+
+  body {
+    background-repeat: no-repeat;
+    
+  }
