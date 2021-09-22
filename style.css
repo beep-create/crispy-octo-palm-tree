@@ -31,7 +31,7 @@
   }
 
 canvas {
-      border: 5px solid white;
+      border: 10px solid white;
       border-radius: 20px;
       box-shadow: 5px 5px 5px black;
 
@@ -40,4 +40,10 @@ canvas {
   body {
     background-repeat: no-repeat;
     
+  }
+
+  video {
+    border: 10px solid white;
+    border-radius: 20px;
+      box-shadow: 5px 5px 5px black;
   }
